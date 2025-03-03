@@ -1,3 +1,5 @@
+# Tabla de Clientes con su respectiva fecha de pago
+## Ejemplo
 | ID Cliente | Nombre         | Fecha de Pago |
 |------------|---------------|--------------|
 | 001        | Juan Pérez    | 2025-02-15   |
