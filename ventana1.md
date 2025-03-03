@@ -1,5 +1,5 @@
 # Tabla de Clientes y Membresías
-
+## Esta es una tabla con registros de Clientes y duración de sus membresias
 | ID  | Nombre         | Edad | Tipo de Membresía | Fecha de Expiración |
 |-----|--------------|------|------------------|------------------|
 | 001 | Juan Pérez   | 28   | Mensual         | 2025-04-30      |
