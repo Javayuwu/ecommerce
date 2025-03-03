@@ -1,0 +1,11 @@
+# Tabla de Clientes y Membresías
+
+| ID  | Nombre         | Edad | Tipo de Membresía | Fecha de Expiración |
+|-----|--------------|------|------------------|------------------|
+| 001 | Juan Pérez   | 28   | Mensual         | 2025-04-30      |
+| 002 | Ana Gómez    | 34   | Trimestral      | 2025-06-30      |
+| 003 | Luis Ramírez | 22   | Anual           | 2026-02-15      |
+| 004 | María López  | 30   | Mensual         | 2025-03-25      |
+| 005 | Carlos Ruiz  | 40   | Semestral       | 2025-09-10      |
+
+> **Nota:** Los clientes deben renovar su membresía antes de la fecha de expiración para mantener su estatus activo.
